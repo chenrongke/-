@@ -7,5 +7,4 @@ Our application is to record the date of your drinking, the amount of alcohol co
 Please try to control your drinking amount and give you a healthy life.
 
 # Screenshot:
- # Screenshot: 
 ![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
