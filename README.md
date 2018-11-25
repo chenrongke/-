@@ -1,3 +1,13 @@
+# 음주 일정
+술을 마시는 경우 술을 너무 많이 마시는 것은 몸에 좋지 않습니다.
+우리의 응용 프로그램은 귀하의 음주 날짜, 소비 된 알코올의 양 및 소비량을 기록하는 것입니다.
+음주량을 조절하고 건강한 삶을 누리시기 바랍니다.
+
+# Drikkeplan
+For a drink application, drinking too much is not good for your body.
+Our application is to record the date of your drinking, the amount of alcohol consumed and the consumption.
+Please try to control your drinking amount and give you a healthy life.
+
 # Privacy Policy
 Drikkeplan/음주 일정 respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, Drikkeplan/음주 일정 will use and disclose your personal information in accordance with this Privacy Policy. But Drikkeplan/음주 일정 will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Drikkeplan/음주 일정 will not disclose or provide such information to third parties without your prior permission. Drikkeplan/음주 일정 will update this Privacy Policy from time to time. By agreeing to the Drikkeplan/음주 일정 Service Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Drikkeplan/음주 일정 Service Use Agreement.
 
@@ -53,7 +63,9 @@ b) You have the right to choose to accept or decline to accept cookies. You can 
 c) This policy will apply to information obtained through the cookies set by Drikkeplan/음주 일정.
 
 # Screenshot: 
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/2.png)
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/3.png)
+![image](https://github.com/chenrongke/-/blob/master/sc/1.png)
+![image](https://github.com/chenrongke/-/blob/master/sc/2.png)
+![image](https://github.com/chenrongke/-/blob/master/sc/3.png)
+![image](https://github.com/chenrongke/-/blob/master/sc/4.png)
+![image](https://github.com/chenrongke/-/blob/master/sc/5.png)
 
